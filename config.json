@@ -338,8 +338,8 @@
 					},
 				"2":{
 					"skill_porb":0.1,
-					"skill_text":"杏奈发动了[冥空天升]，后退3歩，自己外前三名后退2歩。",
-					"skill_effect":"backward(id,3,position)\nbackward(select_number(position,id,3),2,position)\nbackward(select_number(position,id,2),2,position)\nbackward(select_fast(position,id),2,position)"
+					"skill_text":"杏奈发动了[冥空天升]，后退2歩，自己外前三名后退2歩。",
+					"skill_effect":"backward(id,2,position)\nbackward(select_number(position,id,3),2,position)\nbackward(select_number(position,id,2),2,position)\nbackward(select_fast(position,id),2,position)"
 					},		
 				"3":{
 					"skill_porb":0.075,
