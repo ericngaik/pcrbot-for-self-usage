@@ -343,12 +343,12 @@
 					},		
 				"3":{
 					"skill_porb":0.075,
-					"skill_text":"杏奈发动了UB[罗刹涅槃~极光终天冥坏破]，前进了7歩，但是累趴了，休息2回合。",
+					"skill_text":"杏奈发动了UB[罗刹涅槃-极光终天冥坏破]，前进了7歩，但是累趴了，休息2回合。",
 					"skill_effect":"forward(id,7,position)\ngive_pause(id,2,pause)"
 					},
 				"4":{
 				    "skill_porb":0.03,
-				    "skill_text":"杏奈换上了泳装，发动了[夏极~吸冥姬]！所有人后退3步，自己前进4歩。",
+				    "skill_text":"杏奈换上了泳装，发动了[夏极-吸冥姬]！所有人后退3步，自己前进4歩。",
 				    "skill_effect":"n_backward(select_all(id),3,position)\nforward(id,4,position)"
 					}
 			   }
